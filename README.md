@@ -1,8 +1,15 @@
 # tda
 
+## 📚 Teóricas 
+
+- [Guía 1 — Inducción](teo demostraciones)
+- [Guía 2 — Conjuntos](./guia-02.md)
+- [Guía 3 — Relaciones](./guia-03.md)
+
+
 ## Guías - primer parcial
-- [x] Demostraciones
-- [x] Demostraciones sobre grafos
+- [ ] Demostraciones
+- [ ] Demostraciones sobre grafos
 - [ ] Algoritmos sobre grafos
 - [ ] Divide & Conquer
 - [ ] Backtracking 
