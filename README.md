@@ -2,7 +2,7 @@
 
 ## 📚 Teóricas 
 
-- [Guía 1 — Inducción](teo demostraciones)
+- [Prácticas](practicas tdah)
 - [Guía 2 — Conjuntos](./guia-02.md)
 - [Guía 3 — Relaciones](./guia-03.md)
 
