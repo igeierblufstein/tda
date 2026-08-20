@@ -1,8 +1,8 @@
 # tda
 
-## 📚 Teóricas 
+## 📚 Prácticas 
 
-- [Guía 2 — Conjuntos](./guia-02.md)
+- [Práctica 2 — Demostraciones de grafos](practicas/practica02_introGrafos.pdf)
 - [Guía 3 — Relaciones](./guia-03.md)
 
 
