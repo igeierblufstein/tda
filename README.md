@@ -5,7 +5,7 @@
 
 ## Guías - primer parcial
 - [ ] Demostraciones
-- [ ] Demostraciones sobre grafos
+- [ ] [Demostraciones sobre grafos](practicas/practica02_introGrafos.pdf)
 - [ ] Algoritmos sobre grafos
 - [ ] Divide & Conquer
 - [ ] Backtracking 
